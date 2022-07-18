@@ -30,4 +30,4 @@ As for technology:
   CSS
   Bootstrap 5.0
   
-  ![alt Print of Result Application](digito-verificador/result.PNG)
+  ![alt Print of Result Application](result.PNG)
